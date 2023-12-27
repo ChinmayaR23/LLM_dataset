@@ -1,0 +1,17 @@
+prompt_mapping = {
+    'Car-free cities': 0,
+    'Does the electoral college work?': 1,
+    'Summer projects': 2,
+    '"A Cowboy Who Rode the Waves"': 3,
+    'Mandatory extracurricular activities': 4,
+    'Exploring Venus': 5,
+    'Facial action coding system': 6,
+    'The Face on Mars': 7,
+    'Community service': 8,
+    'Grades for extracurricular activities': 9,
+    'Driverless cars': 10,
+    'Cell phones at school': 11,
+    'Distance learning': 12,
+    'Seeking multiple opinions': 13,
+    'Phones and driving': 14  # Add 'Phones and driving' with ID 14
+}
